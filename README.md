@@ -9,10 +9,10 @@
 ##### npm i bootstrap
 ##### npm i jquery@~3.4.1
 ##### npm i popper.js
-ng add @fortawesome/angular-fontawesome
-no angular.json acrescentar
-"./node_modules/bootstrap/dist/css/bootstrap.min.css"
-"./node_modules/jquery/dist/jquery.js",
-"./node_modules/bootstrap/dist/js/bootstrap.js",
-"./node_modules/popper.js/dist/umd/popper.min.js"
-fontawesome no appmodule.ts
+##### ng add @fortawesome/angular-fontawesome
+##### no angular.json acrescentar
+##### "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+##### "./node_modules/jquery/dist/jquery.js",
+##### "./node_modules/bootstrap/dist/js/bootstrap.js",
+##### "./node_modules/popper.js/dist/umd/popper.min.js"
+##### fontawesome no appmodule.ts
