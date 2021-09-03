@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nome": "pedro",
+            "mensagem": "seja bem vindo ao blog do pedro"
+        },
+        {
+            "id": 2,
+            "nome": "jose",
+            "mensagem": "seja bem vindo ao blog do pedro"
+        },
+        {
+            "id": 3,
+            "nome": "carlos",
+            "mensagem": "seja bem vindo ao blog do pedro"
+        }
+    ]
+}
